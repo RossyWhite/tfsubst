@@ -1,0 +1,6 @@
+name: "tfsubst action"
+author: "RossyWhite"
+description: "Substitute variables with tfstate values"
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
